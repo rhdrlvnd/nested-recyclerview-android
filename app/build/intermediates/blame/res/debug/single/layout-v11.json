@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Dawoon\\.android\\build-cache\\8ad954b196fcfc4673b7b518b0c056af3d8ba07a\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Dawoon\\.android\\build-cache\\8ad954b196fcfc4673b7b518b0c056af3d8ba07a\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Dawoon\\.android\\build-cache\\8ad954b196fcfc4673b7b518b0c056af3d8ba07a\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Dawoon\\.android\\build-cache\\8ad954b196fcfc4673b7b518b0c056af3d8ba07a\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Dawoon\\.android\\build-cache\\8ad954b196fcfc4673b7b518b0c056af3d8ba07a\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Dawoon\\.android\\build-cache\\8ad954b196fcfc4673b7b518b0c056af3d8ba07a\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

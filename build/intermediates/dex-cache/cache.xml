@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\9d7f875e7ba1592938bab16655a20bc777446ead\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe1233e88edd04ccbbfb4adf708f3e18c0da9b97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\d8c002c74be01d0180f2eda538fba48c903c8f24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f06f35987409728cb5bc366fdd5f7bad8ed5d43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\3ff9e44361a5d25f1c23a3b9011d17a5a432abab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b97ed52ea8c24087e18ffffe4a4b51233e04383">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e908c9b984624b964f4ec5e47fcda4664b9aa5b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\a60ed3134f0d834f2b6f25105107f046f7a4d020\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03371655adacf7b9e360a185eca57e5c2242bf14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1d2b31aec508fdd038d77a0432df4b0bd3dc175">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8e8dba42382a181e04d53cec60681f3bf213e37a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\c01a5960ded6846db017d5e63845a38b9a89ca32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9d57a74ef77aff8c8c27dd8a29353491153ee9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\baa50f930e87207997a16cf80ee233d44e06bdb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3123c908c1da5d543e1387b29c5a47cf281a5fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\938c4747115de50c9d86a226b891f701c1e91a2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76db9c8247ee681439a55ff8515beeaa174a653b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\9ec5d38e0e4f7add59f373cb3f1397a8580feea6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d15506493ce2c31deadb449924015584c608943\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.6.0_bd89545f6ba865dd0fd794b87ecc99b4caa9ee52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\e5cb6747aa3cc23e879087b12f7769f463c55096\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec765f44be59fcfadc7059f93ef534bf451f663f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\455200fd1785a343799c06f1ed981149f47a48d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1da52a6c2c2082ca91560df3c88505a7e3b015be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\8ad954b196fcfc4673b7b518b0c056af3d8ba07a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d3f3a0f7767da3b09da42d524fac7f1e646e26e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_f6fd4ebdc02abc155c4fb330e01a76fc8b480b9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b31a694b3a4ea5dad84feef95a12d8a7a632f9bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e96fc167d0e22a45439226be5d1cec18b7d077ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\7d5674c0cbda2b46df55dd7da5ffefe20c4a27dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_437751b39a937b32bdf20020b68fc1cf912f76a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawoon\.android\build-cache\36244077f6238427b7e65ed7bf691528297005be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Dawoon\Documents\intern\RecyclerviewNestedRecyclerview\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbe21e52e6485548268864f578a08e1eb70b5cf0\classes.dex" />
+    </item>
+
+</items>

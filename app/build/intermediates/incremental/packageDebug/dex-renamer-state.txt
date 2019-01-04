@@ -1,0 +1,7 @@
+#Fri Jan 04 16:40:35 KST 2019
+base.0=C\:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8e8dba42382a181e04d53cec60681f3bf213e37a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b31a694b3a4ea5dad84feef95a12d8a7a632f9bd\\classes.dex
+base.1=C\:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b31a694b3a4ea5dad84feef95a12d8a7a632f9bd
+file.0=C\:\\Users\\Dawoon\\Documents\\intern\\RecyclerviewNestedRecyclerview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8e8dba42382a181e04d53cec60681f3bf213e37a\\classes.dex
